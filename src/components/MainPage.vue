@@ -7,6 +7,8 @@
 
 
       <img src="http://ec2-18-218-65-252.us-east-2.compute.amazonaws.com:8080/"/>
+
+      <img src="http://ec2-18-218-65-252.us-east-2.compute.amazonaws.com:8080/russia"/>
     </p>
   </div>
 </template>
@@ -20,10 +22,10 @@ export default {
     msg: String
   },
   mounted() {
-    console.log("hello.");
-    axios.get("http://ec2-18-218-65-252.us-east-2.compute.amazonaws.com:5000").then(function (data){
-      console.log(data);
-    });
+    //console.log("hello.");
+    // axios.get("http://ec2-18-218-65-252.us-east-2.compute.amazonaws.com:5000").then(function (data){
+    //   console.log(data);
+    // });
 
 
 
