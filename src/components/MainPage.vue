@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       Here you can find statistics for many areas. You can create your own statistical analysis and share it. <br/>
-      Let's make objective statistic available to everybody.
+      Let's make objective statistics available to everybody.
     </p>
   </div>
 </template>
