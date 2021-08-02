@@ -2,7 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Here you can find statistics for much areas.
+      Here you can find statistics for many areas. You can create your own statistical analysis and share it. <br/>
+      Let's make objective statistic available to everybody.
     </p>
   </div>
 </template>
