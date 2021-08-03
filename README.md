@@ -1,4 +1,4 @@
-# stat
+# stat2
 
 ## Project setup
 ```
